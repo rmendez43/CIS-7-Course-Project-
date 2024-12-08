@@ -32,3 +32,6 @@ I chose Case 1 for this project. This program calculates the shortest and most c
 5.  **User-Friendly Output**:
     
     -   The program outputs the adjacency matrix, the shortest path, and the total distance in a clear and concise format for easy interpretation.
+
+## Basic Instructions
+The easiest way to run the code is to go to a C++ compiler online, [like this free one from Programiz](https://www.programiz.com/cpp-programming/online-compiler/). Simply copy the code from the `main.cpp` file, paste it in the online C++ compiler, and run the code.
