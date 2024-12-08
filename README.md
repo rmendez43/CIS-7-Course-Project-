@@ -6,7 +6,9 @@ Author - Ryan Mendez
 Date submitted - 12/8/2024
 
 ## Project Description
-This program calculates the shortest and most cost-effective travel path for a marketing specialist visiting multiple cities. The cities are represented as nodes in a graph, and the distances between them are represented as edges in an adjacency matrix. The goal is to identify the shortest path that starts and ends at the same city (Riverside) while visiting all other cities exactly once. The program uses C++ for its efficient computation and clear representation of graph traversal and pathfinding algorithms.
+This program calculates the shortest and most cost-effective travel path for a marketing specialist visiting multiple cities (see image below). The cities are represented as nodes in a graph, and the distances between them are represented as edges in an adjacency matrix. The goal is to identify the shortest path that starts and ends at the same city (Riverside) while visiting all other cities exactly once. The program uses C++ for its efficient computation and clear representation of graph traversal and pathfinding algorithms.
+
+![Project Image](https://photos.fife.usercontent.google.com/pw/AP1GczOtdwcHih3f76boc7RhMQ1-TYLJPRXRQmmqiztjwRK2KrnnLPLzzw=w558-h552-s-no-gm?authuser=2)
 
 ## Programming Approaches
 1.  **Graph Representation**:
